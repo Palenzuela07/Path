@@ -1,0 +1,14 @@
+# Target labels
+ vorbis-populate
+# Source files and their labels
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate.rule
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete.rule
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build.rule
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure.rule
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download.rule
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install.rule
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir.rule
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch.rule
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test.rule
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update.rule

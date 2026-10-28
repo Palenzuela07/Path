@@ -1,0 +1,3 @@
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate.dir
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/freetype-subbuild/CMakeFiles/edit_cache.dir
+/Users/michaelpalenzuela/Desktop/Path/build/_deps/freetype-subbuild/CMakeFiles/rebuild_cache.dir
